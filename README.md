@@ -8,6 +8,7 @@ To be able to run a song or create your own music:
 2. Get Emacs (http://mirror.clarkson.edu/gnu/emacs/)
 
 3. Get Emacs live for Overotne (type this in your terminal:
+
 bash <(curl -fksSL https://raw.github.com/overtone/emacs-live/master/installer/install-emacs-live.sh)
 )
 
