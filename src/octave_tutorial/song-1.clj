@@ -12,7 +12,7 @@
 ;(overpad)
 ;(piano)
 ;(stop)
-
+;(kick2)
 
 ;; converts a note (i.e. :C4) to a MIDI value
 (defn note->hz [music-note]
